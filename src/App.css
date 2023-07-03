@@ -1,0 +1,26 @@
+.app{
+
+    justify-content: center;
+    align-items: center;
+}
+
+.user-details,form{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.user-details {
+  text-align: center;
+}
+
+.delete-button{
+  width: 20%;
+}
+
+h3{
+  text-align: center;
+}
